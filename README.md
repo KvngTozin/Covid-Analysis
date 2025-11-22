@@ -4,14 +4,14 @@
 This project analyzes global COVID-19 data from 2020 to 2021, highlighting infection rates, death trends, and population impact across countries and continents.  
 Using an interactive Tableau dashboard, the project visualizes the global spread of the virus, mortality patterns, and how infection percentages changed month-to-month.
 
-The goal is to provide a clear, data-driven understanding of how COVID-19 evolved over time and how different regions were affected.
+The goal is to provide a clear, data-driven understanding of how COVID-19 evolved and how different regions were affected.
 
 ---
 
 ## 🛠 Tools and Technologies  
 This project uses a combination of data extraction, cleaning, and visualization tools:
 
-- **SQL**: Used to query, aggregate, and prepare COVID-19 case and death data.  
+- **SQL(My SQL Server)**: Used to query, aggregate, and prepare COVID-19 case and death data.  
 - **Excel**: Used for preprocessing, cleaning missing values, and organizing country/continent data.  
 - **Tableau**: Built interactive dashboards showing KPIs, infection rates, continent-level deaths, and monthly trends.
 
